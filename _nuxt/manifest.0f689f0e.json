@@ -1,7 +1,7 @@
 {
   "name": "aniverse-ui",
   "short_name": "aniverse-ui",
-  "description": "Aniverse official site",
+  "description": "Aniverse official site > Aniverse is an open source database for hebrew anime translations.",
   "icons": [
     {
       "src": "/_nuxt/icons/icon_64x64.5f6a36.png",
