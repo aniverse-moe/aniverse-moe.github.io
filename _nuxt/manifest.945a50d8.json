@@ -1,7 +1,7 @@
 {
   "name": "aniverse-ui",
   "short_name": "aniverse-ui",
-  "description": "Aniverse official site > Aniverse is an open source database for hebrew anime translations.",
+  "description": "![Master CI](https://github.com/aniverse-moe/AniverseUI/workflows/Master%20CI/badge.svg) ![Prod Deploy](https://github.com/aniverse-moe/AniverseUI/workflows/Prod%20Deploy/badge.svg) ![PreProd Deploy](https://github.com/aniverse-moe/AniverseUI/workflows/PreProd%20Deploy/badge.svg)",
   "icons": [
     {
       "src": "/_nuxt/icons/icon_64x64.5f6a36.png",
@@ -49,6 +49,5 @@
   "start_url": "/?standalone=true",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "black",
   "lang": "en"
 }
